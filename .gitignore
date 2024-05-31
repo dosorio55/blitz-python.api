@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dependency directories
+env/
+
+# Environment configuration
+.env
+
+# build files
+build/
+dist/
